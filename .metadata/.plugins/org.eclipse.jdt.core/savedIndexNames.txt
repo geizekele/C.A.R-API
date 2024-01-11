@@ -1,2 +1,0 @@
-INDEX VERSION 1.134+C:\Users\k15ge\Desktop\1. Projetos Livros\1. API Rest\workspace1\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
