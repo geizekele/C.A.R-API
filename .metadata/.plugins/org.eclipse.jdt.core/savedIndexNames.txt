@@ -2,7 +2,6 @@ INDEX VERSION 1.134+C:\Users\k15ge\Desktop\1. Projetos Livros\1. API Rest\worksp
 1589813097.index
 2185195955.index
 99295640.index
-1307552333.index
 2912043877.index
 3230881591.index
 1800641454.index
