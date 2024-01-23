@@ -1,8 +1,8 @@
 package app.car.cap01.domain;
 
 import java.util.Date;
-import javax.persistence.Entity; //Necessario adicionar V1 no pom.xml (reflete estado do DB)
-import javax.persistence.Id;
+import jakarta.persistence.Entity; //Necessario adicionar V1 no pom.xml (reflete estado do DB)
+import jakarta.persistence.Id;
 import lombok.Data; //Utilizar no local de criar getters e setters manualmente
 
 @Data
